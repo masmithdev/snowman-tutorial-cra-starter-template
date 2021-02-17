@@ -1,0 +1,21 @@
+{
+  "name": "@masmithdev/cra-template-snowman-tutorial-starter",
+  "version": "0.0.1",
+  "description": "Snowman tutroail starter template for use with create-react-app",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/masmithdev/snowman-tutorial-cra-starter-template.git"
+  },
+  "keywords": [
+    "react",
+    "create-react-app",
+    "template",
+    "tutorial"
+  ],
+  "author": "Michael Smith",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/masmithdev/snowman-tutorial-cra-starter-template/issues"
+  },
+  "homepage": "https://github.com/masmithdev/snowman-tutorial-cra-starter-template#readme"
+}
