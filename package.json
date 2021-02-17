@@ -1,6 +1,6 @@
 {
   "name": "@masmithdev/cra-template-snowman-tutorial-starter",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "Snowman tutroail starter template for use with create-react-app",
   "repository": {
     "type": "git",
