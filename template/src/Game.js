@@ -1,4 +1,4 @@
-import * as BodyParts from './images';
+import * as BodyParts from './body-parts';
 import './Game.css';
 
 function Game() {
