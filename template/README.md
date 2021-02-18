@@ -1,3 +1,4 @@
-# React Snowman Game Tutorial
+# Snowman Tutorial
+## How to make simple "Hangman" game using React
 
-This tutorial shows how to build a simple Hangman style game using React.
+https://masmithdev.com
